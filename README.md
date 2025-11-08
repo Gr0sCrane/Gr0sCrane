@@ -1,4 +1,4 @@
-Mouad Chd
+# Mouad Chd
 
 Hello I am Mouad. I'm a belgian student learning Cs and Networks at school. I'm very curious and love to learn more and more.
 I wrote some programs in my free time.
@@ -24,4 +24,5 @@ I wrote some programs in my free time.
     <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr" />
   </a>
 </p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr0sCrane)](https://github.com/anuraghazra/github-readme-stats)
 
