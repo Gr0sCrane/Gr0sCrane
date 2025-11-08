@@ -24,12 +24,4 @@ I wrote some programs in my free time.
     <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr" />
   </a>
 </p>
-<h1>Personal hobbies</h1>
-<hl>
-  <p>
-    ![image]({https://img.shields.io/badge/Nintendo_Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white})
-    ![image]({https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white})
-    ![image]({https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white})
-    ![image]({https://img.shields.io/badge/curseforge-F16436?style=for-the-badge&logo=curseforge&logoColor=white})
-</p>
 
