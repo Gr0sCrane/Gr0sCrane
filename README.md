@@ -5,8 +5,15 @@ I wrote some programs in my free time.
 
 <h1>Programming languages skills </h1>
 <hl>
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,c,java,py,html,css,js" />
+  </a>
+</p>
+  <hl>
+<h1>IDE that I use/can use</h1>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=visualstudio,vscode,idea,pycharm" />
   </a>
 </p>
