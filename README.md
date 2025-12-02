@@ -4,7 +4,7 @@ Hello I am Mouad. I'm a belgian student learning Cs and Networks at school. I'm 
 I wrote some programs in my free time.
 
 # Personal stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gr0sCrane)](https://github.com/Gr0sCrane/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gr0sCrane)](https://github.com/Gr0sCrane/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Chd)](https://github.com/M-Chd/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Chd)](https://github.com/M-Chd/github-readme-stats)
 
 <h1>Programming languages skills </h1>
 <hl>
