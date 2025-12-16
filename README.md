@@ -24,7 +24,7 @@ I wrote some programs in my free time.
 <hl>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr,un&perline=3" />
+    <img src="https://skillicons.dev/icons?i=git,gitlab,blender,cmake,mysql,pr,un&perline=6" />
   </a>
 </p>
 
